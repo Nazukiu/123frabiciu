@@ -169,7 +169,7 @@ header > div:nth-child(1) > div:nth-child(2) div:nth-child(2) p:hover{
             flex: 1;
             padding: 20px;
             background: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 5 10px rgba(5, 5, 0, 0.1);
         }
         footer {
             background: #333;
@@ -243,9 +243,9 @@ header > div:nth-child(1) > div:nth-child(2) div:nth-child(2) p:hover{
             <br>
             <br>
             
-                <h2>A influência das redes sociais</h2>
+                <h2>O que as mães realmente precisam: menos críticas sobre a aparência, mais apoio</h2>
                 <img src="c:\Users\nazuk\Pictures\vscode\estetica1_files\corpo-feminino.jpg" width="450px" height="250px">
-                <p> a influência das redes sociais: nos tempos modernos, a estética corporal tem sido amplamente moldada pelas redes sociais. instagram, tiktok e outras plataformas têm promovido padrões de beleza frequentemente inalcançáveis, o que levou a um aumento na busca por intervenções estéticas, como cirurgias plásticas, tratamentos estéticos e mudanças de estilo de vida para atingir corpos ideais.</p>
+                <p>Flores e um café da manhã elaborado são lindos para o Dia das Mães, mas há um presente inestimável que quase todas as mães gostariam: uma imagem corporal mais saudável. A pressão sobre as mulheres para parecerem perfeitas não é culpa nossa. Reconhecer e resistir a ideais de aparência irrealistas pode melhorar a vida das mães em todas as fases da maternidade.</p>
             </article>
             <p><a href="https://www.cnnbrasil.com.br/saude/o-que-as-maes-realmente-precisam-menos-criticas-sobre-a-aparencia-mais-apoio/">saiba mais</a></p>
             <article>
@@ -256,7 +256,12 @@ header > div:nth-child(1) > div:nth-child(2) div:nth-child(2) p:hover{
         </div>
         <aside class="sidebar">
             <ul>
-        <a href="https://anaestetica.byethost15.com/index.html"> <img src="logo.jpeg" width="400px" height="250px"/> </a>
+        <a href="https://anaestetica.byethost15.com/index.html"> <img src="logo.jpeg" width="410px" height="130px"/> </a>
+        <br>
+        <br>
+        <br>
+        <div class="mapbox"> </div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1140.9679545888723!2d-48.03221829242188!3d-15.87007545629694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a2d98f7ffffff%3A0x4f7d7a315233f8c1!2sCentro%20Universit%C3%A1rio%20Est%C3%A1cio!5e0!3m2!1spt-BR!2sbr!4v1732677874963!5m2!1spt-BR!2sbr" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
             
               
         </ul>
